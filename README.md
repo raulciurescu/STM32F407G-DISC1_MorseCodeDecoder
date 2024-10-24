@@ -1,4 +1,4 @@
-STM32F407G-DISC1_MorseCodeDecoder
+# STM32F407G-DISC1_MorseCodeDecoder
 This project is a continuation of STM32F407G-DISC1_Tutorials.
 
 This repository contains a Morse code decoder project for the STM32F407G-DISC1 development board. It serves as a great first project to further develop your understanding of STM32 programming, especially if you've already worked through the tutorials in STM32F407G-DISC1_Tutorials.
